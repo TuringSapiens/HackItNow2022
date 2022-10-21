@@ -5,4 +5,18 @@
 # this is the outcome line but stil no outcome lol ;) ............
 ![Alt Text](https://media.giphy.com/media/MgcE5n2MDfwiI/giphy.gif)
 # you got played......................................
+
 # I am still confused
+=======
+
+# What am I doing ?
+# I got no clue
+=======
+
+# Is this how you get things done
+# I didn't know
+=======
+# Am I doing this right
+# The hacktoberfest website is cool got to clone it
+
+
