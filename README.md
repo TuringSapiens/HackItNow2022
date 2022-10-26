@@ -8,4 +8,6 @@
 
 ### Make your contribution to this repository, and wait for the PR to get accepted.
 
+#### This is where the magic happens.
+
 ![Alt Text](https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif)
